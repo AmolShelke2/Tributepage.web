@@ -1,0 +1,30 @@
+.thumbnail {
+  background-color: #eee;
+}
+body {
+  margin-top: 33px;
+  outline: none;
+}
+.thumbnail .caption {
+  background-color: #ddd;
+}
+
+.thumbnail img {
+  border-radius: 50%;
+}
+
+.container h1 {
+  font-family: "Dancing Script", cursive;
+}
+
+.container h3 {
+  font-family: "Dancing Script", cursive;
+}
+
+.container h2 {
+  font-family: 'Dancing Script', cursive;
+}
+
+.Caption-center {
+  font-family: 'Dancing Script', cursive;
+}
